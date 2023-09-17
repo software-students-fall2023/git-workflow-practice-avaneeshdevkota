@@ -25,3 +25,7 @@
         <li> Dip a foot into the hiring market </li>
     </ol>
 </ul>
+
+## Comments  
+
+**Seolin Jung**: This article has great insights on how to become a better developer, and honestly, it was overwhelming to read as someone who has just started to venture into the field as a student. Software engineering is definitely a commitment- not just of pure skill, but of willingness to reach out to others, collaborate on different topics and as the author mentions, "get out of my comfort zone." 
